@@ -52,6 +52,7 @@ int count=0;
      if( z <= 1 ) count++;
  }
 
+
  pi = (double) count / n * 4;
 
  return pi;
